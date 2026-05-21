@@ -1,0 +1,26 @@
+{
+    "session_id": "deepseek_1762417607",
+    "timestamp": "2025-11-06 08:26:47",
+    "messages": [
+        {
+            "role": "assistant",
+            "content": "Welcome to Travel Centre Flight Search! I can help you find the best flight deals.",
+            "timestamp": "2025-11-06 08:16:47"
+        },
+        {
+            "role": "user",
+            "content": "Show me flights from Lagos to Abuja",
+            "timestamp": "2025-11-06 08:17:47"
+        },
+        {
+            "role": "assistant",
+            "content": "I found several flights from LOS to ABV. The best deals are with Arik Air and Air Peace.",
+            "timestamp": "2025-11-06 08:18:47"
+        }
+    ],
+    "search_queries": [
+        "LOS-ABV",
+        "Lagos-Abuja",
+        "Nigeria domestic flights"
+    ]
+}

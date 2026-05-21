@@ -1,0 +1,13 @@
+[
+	{
+		"name": "tcng",
+		"host": "s3.whitelabelclouds.com",
+		"port": 21,
+		"type": "ftp",
+		"username": "tcng@travelcentre.ng",
+		"password": "L1pYdk1bG-9:8F",
+		"path": "/",
+		"autosave": true,
+		"confirm": false
+	}
+]
